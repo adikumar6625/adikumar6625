@@ -1,18 +1,15 @@
-### Hi, I'm Aditya 👋
+### Hi, I'm Aditya Kumar👋
 
 I'm a developer working across web development and applied ML — building full-stack projects, ML predictors, and exploring microservices architecture with AI.
 
 - 🔭 Currently working on: **microservices-ai-project**
-- 🌱 Currently learning: Distributed systems & Rust (edit if not accurate)
+- 🌱 Currently learning: Distributed systems & Rust
 - 💡 Interested in: Machine Learning, Web Development, Microservices
 - 📫 Reach me: adikumar2089@gmail.com
 
 ---
 
 #### 🚀 Featured Projects
-
-**[Spotify-Web-Player-Clone](https://github.com/adikumar6625/Spotify-Web-Player-Clone)**
-Responsive clone of Spotify's web interface built with HTML5 and CSS3 — Flexbox layouts, reusable playlist cards, and a full sidebar/player UI.
 
 **[microservices-ai-project](https://github.com/adikumar6625/microservices-ai-project)**
 A microservices-based project integrating AI components. *(Add a 1-2 line description here on what problem it solves.)*
@@ -23,6 +20,8 @@ A movie recommendation system built with Jupyter Notebook. *(Add details: what a
 **[student-performance-predictor](https://github.com/adikumar6625/student-performance-predictor)**
 A JavaScript-based tool for predicting student performance. *(Add details: what inputs/features it uses.)*
 
+**[Spotify-Web-Player-Clone](https://github.com/adikumar6625/Spotify-Web-Player-Clone)**
+Responsive clone of Spotify's web interface built with HTML5 and CSS3 — Flexbox layouts, reusable playlist cards, and a full sidebar/player UI.
 ---
 
 #### 🧩 Problem Solving
